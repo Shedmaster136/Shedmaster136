@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shedmaster136
-- 👀 I’m interested in C++,Java, OCR, Python
-- 🌱 I’m currently learning Java, Kotlin, Android development
+- 👀 I’m interested in C++, Golang, Python
+- 🌱 I’m currently learning Golang, Python, Background development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
